@@ -1,0 +1,4 @@
+repository "Example2Arduino@adelalmazan@cloud"
+  path "/"
+    br "/main"
+    co "/main"
